@@ -28,7 +28,7 @@ Business Process: Gestión de identidades y servicios financieros.
 
 Business Service: Servicios bancarios y de identificación digital.
 
-2. Vista de Negocio
+# 2. Vista de Negocio
 
 En esta vista, se describen los procesos de negocio de ambas entidades y cómo se integrarán. El proceso clave será la unificación de las operaciones de ambos organismos para ofrecer un servicio integral al cliente.
 
@@ -58,7 +58,7 @@ Business Interaction: Interacción entre los sistemas de RENIEC y BCP para valid
 
 Business Service: Servicios de gestión de identidad, servicios financieros.
 
-3. Vista de Aplicación
+# 3. Vista de Aplicación
 
 Esta vista describe cómo se implementarán las aplicaciones y sistemas necesarios para apoyar los procesos de negocio.
 
